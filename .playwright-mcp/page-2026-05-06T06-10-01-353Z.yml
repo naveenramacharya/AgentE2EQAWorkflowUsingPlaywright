@@ -1,0 +1,64 @@
+- generic [ref=e259]:
+  - generic [ref=e260]:
+    - generic [ref=e261]:
+      - generic [ref=e262]:
+        - generic [ref=e263]:
+          - button "Open Menu" [ref=e264] [cursor=pointer]
+          - img "Open Menu" [ref=e265]
+        - generic [ref=e267]: Swag Labs
+        - generic [ref=e270]: "3"
+      - generic [ref=e272]: "Checkout: Overview"
+    - generic [ref=e274]:
+      - generic [ref=e275]:
+        - generic [ref=e276]: QTY
+        - generic [ref=e277]: Description
+        - generic [ref=e278]:
+          - generic [ref=e279]: "1"
+          - generic [ref=e280]:
+            - link "Sauce Labs Backpack" [ref=e281] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e282]: Sauce Labs Backpack
+            - generic [ref=e283]: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+            - generic [ref=e285]: $29.99
+        - generic [ref=e286]:
+          - generic [ref=e287]: "1"
+          - generic [ref=e288]:
+            - link "Sauce Labs Bike Light" [ref=e289] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e290]: Sauce Labs Bike Light
+            - generic [ref=e291]: A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+            - generic [ref=e293]: $9.99
+        - generic [ref=e294]:
+          - generic [ref=e295]: "1"
+          - generic [ref=e296]:
+            - link "Sauce Labs Bolt T-Shirt" [ref=e297] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e298]: Sauce Labs Bolt T-Shirt
+            - generic [ref=e299]: Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+            - generic [ref=e301]: $15.99
+      - generic [ref=e302]:
+        - generic [ref=e303]: "Payment Information:"
+        - generic [ref=e304]: "SauceCard #31337"
+        - generic [ref=e305]: "Shipping Information:"
+        - generic [ref=e306]: Free Pony Express Delivery!
+        - generic [ref=e307]: Price Total
+        - generic [ref=e308]: "Item total: $55.97"
+        - generic [ref=e309]: "Tax: $4.48"
+        - generic [ref=e310]: "Total: $60.45"
+        - generic [ref=e311]:
+          - button "Go back Cancel" [ref=e312] [cursor=pointer]:
+            - img "Go back" [ref=e313]
+            - text: Cancel
+          - button "Finish" [ref=e314] [cursor=pointer]
+  - contentinfo [ref=e315]:
+    - list [ref=e316]:
+      - listitem [ref=e317]:
+        - link "Twitter" [ref=e318] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+      - listitem [ref=e319]:
+        - link "Facebook" [ref=e320] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e321]:
+        - link "LinkedIn" [ref=e322] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e323]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy

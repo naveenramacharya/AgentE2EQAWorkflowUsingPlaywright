@@ -1,0 +1,56 @@
+- generic [ref=e111]:
+  - generic [ref=e112]:
+    - generic [ref=e113]:
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - button "Open Menu" [ref=e116] [cursor=pointer]
+          - img "Open Menu" [ref=e117]
+        - generic [ref=e119]: Swag Labs
+        - generic [ref=e122]: "2"
+      - generic [ref=e124]: "Checkout: Overview"
+    - generic [ref=e126]:
+      - generic [ref=e127]:
+        - generic [ref=e128]: QTY
+        - generic [ref=e129]: Description
+        - generic [ref=e130]:
+          - generic [ref=e131]: "1"
+          - generic [ref=e132]:
+            - link "Sauce Labs Backpack" [ref=e133] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e134]: Sauce Labs Backpack
+            - generic [ref=e135]: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+            - generic [ref=e137]: $29.99
+        - generic [ref=e138]:
+          - generic [ref=e139]: "1"
+          - generic [ref=e140]:
+            - link "Sauce Labs Bolt T-Shirt" [ref=e141] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e142]: Sauce Labs Bolt T-Shirt
+            - generic [ref=e143]: Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+            - generic [ref=e145]: $15.99
+      - generic [ref=e146]:
+        - generic [ref=e147]: "Payment Information:"
+        - generic [ref=e148]: "SauceCard #31337"
+        - generic [ref=e149]: "Shipping Information:"
+        - generic [ref=e150]: Free Pony Express Delivery!
+        - generic [ref=e151]: Price Total
+        - generic [ref=e152]: "Item total: $45.98"
+        - generic [ref=e153]: "Tax: $3.68"
+        - generic [ref=e154]: "Total: $49.66"
+        - generic [ref=e155]:
+          - button "Go back Cancel" [ref=e156] [cursor=pointer]:
+            - img "Go back" [ref=e157]
+            - text: Cancel
+          - button "Finish" [ref=e158] [cursor=pointer]
+  - contentinfo [ref=e159]:
+    - list [ref=e160]:
+      - listitem [ref=e161]:
+        - link "Twitter" [ref=e162] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+      - listitem [ref=e163]:
+        - link "Facebook" [ref=e164] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e165]:
+        - link "LinkedIn" [ref=e166] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e167]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy

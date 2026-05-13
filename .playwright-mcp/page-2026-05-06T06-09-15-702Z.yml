@@ -1,0 +1,61 @@
+- generic [ref=e128]:
+  - generic [ref=e129]:
+    - generic [ref=e130]:
+      - generic [ref=e131]:
+        - generic [ref=e132]:
+          - button "Open Menu" [ref=e133] [cursor=pointer]
+          - img "Open Menu" [ref=e134]
+        - generic [ref=e136]: Swag Labs
+        - generic [ref=e139]: "3"
+      - generic [ref=e141]: Your Cart
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - generic [ref=e145]: QTY
+        - generic [ref=e146]: Description
+        - generic [ref=e147]:
+          - generic [ref=e148]: "1"
+          - generic [ref=e149]:
+            - link "Sauce Labs Backpack" [ref=e150] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e151]: Sauce Labs Backpack
+            - generic [ref=e152]: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+            - generic [ref=e153]:
+              - generic [ref=e154]: $29.99
+              - button "Remove" [ref=e155] [cursor=pointer]
+        - generic [ref=e156]:
+          - generic [ref=e157]: "1"
+          - generic [ref=e158]:
+            - link "Sauce Labs Bike Light" [ref=e159] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e160]: Sauce Labs Bike Light
+            - generic [ref=e161]: A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+            - generic [ref=e162]:
+              - generic [ref=e163]: $9.99
+              - button "Remove" [ref=e164] [cursor=pointer]
+        - generic [ref=e165]:
+          - generic [ref=e166]: "1"
+          - generic [ref=e167]:
+            - link "Sauce Labs Bolt T-Shirt" [ref=e168] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e169]: Sauce Labs Bolt T-Shirt
+            - generic [ref=e170]: Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.
+            - generic [ref=e171]:
+              - generic [ref=e172]: $15.99
+              - button "Remove" [ref=e173] [cursor=pointer]
+      - generic [ref=e174]:
+        - button "Go back Continue Shopping" [ref=e175] [cursor=pointer]:
+          - img "Go back" [ref=e176]
+          - text: Continue Shopping
+        - button "Checkout" [ref=e177] [cursor=pointer]
+  - contentinfo [ref=e178]:
+    - list [ref=e179]:
+      - listitem [ref=e180]:
+        - link "Twitter" [ref=e181] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+      - listitem [ref=e182]:
+        - link "Facebook" [ref=e183] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e184]:
+        - link "LinkedIn" [ref=e185] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e186]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
